@@ -1,0 +1,42 @@
+2-frases de nivel intermedio
+
+<voice required="Name=Microsoft Helena Desktop">Estoy deseando que llegue.</voice> I’m looking forward to it.  
+<voice required="Name=Microsoft Helena Desktop">No es tan fácil como parece.</voice> It’s not as easy as it seems.  
+<voice required="Name=Microsoft Helena Desktop">¡No puedo esperar a verte!</voice> I can’t wait to see you!  
+<voice required="Name=Microsoft Helena Desktop">Déjame pensarlo.</voice> Let me think about it.  
+<voice required="Name=Microsoft Helena Desktop">No estoy seguro de eso.</voice> I’m not sure about that.  
+<voice required="Name=Microsoft Helena Desktop">Eso suena como una buena idea.</voice> That sounds like a good idea.  
+<voice required="Name=Microsoft Helena Desktop">Necesito tomar una decisión pronto.</voice> I need to make a decision soon.  
+<voice required="Name=Microsoft Helena Desktop">¿Me podrías echar una mano?</voice> Could you give me a hand?  
+<voice required="Name=Microsoft Helena Desktop">Me estoy quedando sin tiempo.</voice> I’m running out of time.  
+<voice required="Name=Microsoft Helena Desktop">Vale la pena intentarlo.</voice> It’s worth a try.  
+<voice required="Name=Microsoft Helena Desktop">Estoy en medio de algo.</voice> I’m in the middle of something.  
+<voice required="Name=Microsoft Helena Desktop">¡Pongámonos al día pronto!</voice> Let’s catch up soon!  
+<voice required="Name=Microsoft Helena Desktop">Estoy empezando.</voice> I’m just getting started.  
+<voice required="Name=Microsoft Helena Desktop">Eso no es lo que quise decir.</voice> That’s not what I meant.  
+<voice required="Name=Microsoft Helena Desktop">Estoy acostumbrado/a.</voice> I’m used to it.  
+<voice required="Name=Microsoft Helena Desktop">No es gran cosa.</voice> It’s not a big deal.  
+<voice required="Name=Microsoft Helena Desktop">Estoy teniendo dudas.</voice> I’m having second thoughts.  
+<voice required="Name=Microsoft Helena Desktop">Tomemos un descanso.</voice> Let’s take a break.  
+<voice required="Name=Microsoft Helena Desktop">Estoy en camino.</voice> I’m on my way.  
+<voice required="Name=Microsoft Helena Desktop">Depende de ti.</voice> It’s up to you.  
+<voice required="Name=Microsoft Helena Desktop">No estoy de humor.</voice> I’m not in the mood.  
+<voice required="Name=Microsoft Helena Desktop">Eso no es justo.</voice> That’s not fair.  
+<voice required="Name=Microsoft Helena Desktop">Lo tendré en cuenta.</voice> I’ll keep that in mind.  
+<voice required="Name=Microsoft Helena Desktop">No es lo mío.</voice> It’s not my cup of tea.  
+<voice required="Name=Microsoft Helena Desktop">¡Solo estoy bromeando!</voice> I’m just kidding!  
+<voice required="Name=Microsoft Helena Desktop">Vamos a intentarlo.</voice> Let’s give it a shot.  
+<voice required="Name=Microsoft Helena Desktop">No me siento muy bien.</voice> I’m feeling under the weather.  
+<voice required="Name=Microsoft Helena Desktop">Es un trabajo en progreso.</voice> It’s a work in progress.  
+<voice required="Name=Microsoft Helena Desktop">Soy todo oídos.</voice> I’m all ears.  
+<voice required="Name=Microsoft Helena Desktop">Es una situación en la que todos ganan.</voice> It’s a win-win situation.  
+<voice required="Name=Microsoft Helena Desktop">Estoy saturado/a de trabajo.</voice> I’m swamped with work.  
+<voice required="Name=Microsoft Helena Desktop">Vamos a improvisar.</voice> Let’s play it by ear.  
+<voice required="Name=Microsoft Helena Desktop">Estoy tratando de entenderlo.</voice> I’m trying to figure it out.  
+<voice required="Name=Microsoft Helena Desktop">Es pan comido.</voice> It’s a piece of cake.  
+<voice required="Name=Microsoft Helena Desktop">Estoy sin dinero.</voice> I’m broke.  
+<voice required="Name=Microsoft Helena Desktop">Démoslo por terminado por hoy.</voice> Let’s call it a day.  
+<voice required="Name=Microsoft Helena Desktop">Estoy pasando por un momento difícil.</voice> I’m having a hard time.  
+<voice required="Name=Microsoft Helena Desktop">Es obvio  No hay que pensarlo mucho.</voice> It’s a no-brainer.  
+<voice required="Name=Microsoft Helena Desktop">Solo te estoy tomando el pelo.</voice> I’m just pulling your leg.  
+<voice required="Name=Microsoft Helena Desktop">Vamos a ver cómo va.</voice> Let’s see how it goes.  
